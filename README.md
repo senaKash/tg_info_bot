@@ -8,3 +8,4 @@
 3)session = AiohttpSession(proxy='http://proxy.server:3128')  #прокси в настройках хостинга смотрите
 4)bot = Bot(token='...', session=session)
 
+![image](https://github.com/senaKash/tg_info_bot/assets/62939178/07334a12-06a8-438b-a218-b7476febf856)
